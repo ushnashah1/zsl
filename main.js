@@ -39,6 +39,18 @@ let track_list = [
     image: "https://sabaqamarkhan.files.wordpress.com/2020/10/picsart_10-19-09.30.01.jpg",
     path: "https://vgdcs25j9tqv88hub6mxaq-on.drv.tw/www/3.mp3",
   },
+  {
+    name: "Really sorry for ur loss",
+    artist: "FATIHA",
+    image: "https://sabaqamarkhan.files.wordpress.com/2020/10/picsart_10-19-09.30.01.jpg",
+    path: "https://vgdcs25j9tqv88hub6mxaq-on.drv.tw/www/4.mp3"
+  },
+  {
+    name: "Really sorry for ur loss",
+    artist: "FATIHA",
+    image: "https://sabaqamarkhan.files.wordpress.com/2020/10/picsart_10-19-09.30.01.jpg",
+    path: "https://vgdcs25j9tqv88hub6mxaq-on.drv.tw/www/5.mp3"
+  },
 ];
 
 function random_bg_color() {
