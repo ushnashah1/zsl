@@ -22,10 +22,10 @@ let curr_track = document.createElement('audio');
 // Define the tracks that have to be played
 let track_list = [
   {
-    name: "Muhammad",
-    artist: "ali",
+    name: "Really sorry for ur loss",
+    artist: "GHOUSE KHAN",
     image: "https://sabaqamarkhan.files.wordpress.com/2020/10/picsart_10-19-09.30.01.jpg",
-    path: "https://vgdcs25j9tqv88hub6mxaq-on.drv.tw/www/3.mp3"
+    path: "https://vgdcs25j9tqv88hub6mxaq-on.drv.tw/www/1.mp3"
   },
   {
     name: "ali",
@@ -37,7 +37,7 @@ let track_list = [
     name: "ali",
     artist: "ali",
     image: "https://sabaqamarkhan.files.wordpress.com/2020/10/picsart_10-19-09.30.01.jpg",
-    path: "https://vgdcs25j9tqv88hub6mxaq-on.drv.tw/www/1.mp3",
+    path: "https://vgdcs25j9tqv88hub6mxaq-on.drv.tw/www/3.mp3",
   },
 ];
 
