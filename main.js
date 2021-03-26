@@ -23,19 +23,19 @@ let curr_track = document.createElement('audio');
 let track_list = [
   {
     name: "Really sorry for ur loss",
-    artist: "GHOUSE KHAN",
+    artist: "FATIHA",
     image: "https://sabaqamarkhan.files.wordpress.com/2020/10/picsart_10-19-09.30.01.jpg",
     path: "https://vgdcs25j9tqv88hub6mxaq-on.drv.tw/www/1.mp3"
   },
   {
-    name: "ali",
-    artist: "ali",
+    name: "Really sorry for ur loss",
+    artist: "Al-Baqarah",
     image: "https://sabaqamarkhan.files.wordpress.com/2020/10/picsart_10-19-09.30.01.jpg",
     path: "https://vgdcs25j9tqv88hub6mxaq-on.drv.tw/www/2.mp3"
   },
   {
-    name: "ali",
-    artist: "ali",
+    name: "Really sorry for ur loss",
+    artist: "Ala imran",
     image: "https://sabaqamarkhan.files.wordpress.com/2020/10/picsart_10-19-09.30.01.jpg",
     path: "https://vgdcs25j9tqv88hub6mxaq-on.drv.tw/www/3.mp3",
   },
